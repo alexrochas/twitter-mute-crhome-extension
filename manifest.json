@@ -1,0 +1,20 @@
+{
+  "name": "Twitter Mute",
+  "version": "0.1",
+  "description": "Mute tab notifications on Twitter",
+  "manifest_version": 2,
+  "browser_action": {},
+  "icons": {
+    "16": "extension-logo.png",
+    "48": "extension-logo.png",
+    "128": "extension-logo.png"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+      "tabs",
+      "*://twitter.com/*"
+   ]
+}
