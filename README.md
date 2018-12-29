@@ -7,7 +7,7 @@ anything else. (or loose time with Facebook instead)
 
 ## Result
 
-[demo](demo.png)
+![demo](demo.png)
 
 ## Roadmap
 
